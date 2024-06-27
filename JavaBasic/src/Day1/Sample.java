@@ -6,7 +6,7 @@ public class Sample {
 		System.out.print("Hello");
 		System.out.println("...");
 		System.out.print("Welcome to FSJ");
-		System.out.print("\nNew line");
+		System.out.print("New line");
 	}
 
 }
